@@ -1,0 +1,13 @@
+private/
+__pycache__/
+*.pyc
+# outputs and working data (never commit exported personal data)
+output/
+analysis/output/
+derived/
+raw/
+tmp/
+data/
+# real local settings; only the .example file is tracked
+本機設定.md
+*.bak*
